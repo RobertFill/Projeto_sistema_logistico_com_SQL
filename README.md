@@ -4,7 +4,7 @@ Bem-vindo ao repositório/pacote do **Sistema Logístico Alimentício**. Este pr
 
 ---
 
-## 📂 Estrutura do Pacote (`.zip`)
+## 📂 Estrutura do Pacote
 
 O arquivo compactado contém todos os artefatos necessários para entender, executar e documentar a base de dados:
 
