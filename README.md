@@ -57,3 +57,11 @@ Para criar o banco de dados no seu SGBD (ex: MySQL, PostgreSQL ou SQL Server):
 * **Controle de Produtos Alimentícios** (Validade, Lote, Categorias)
 * **Fornecedores e Clientes**
 * **Rotas de Transporte e Expedição**
+<br>
+<br>
+
+feito por:
+ - Juan Pablo Camilo dos Santos  
+ - Arthur Arias da Silva    
+ - Filipe Robert Soares
+ - Herlon Filgueiras Verissimo de Oliveira
